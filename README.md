@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders, I am AHMED ELBAKRY" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-# 💻 أحمد البكري | C++ Developer  
+# 💻 Ahmed Elbakry | C++ Developer  
 
 🔹 Passionate about **C++**, OOP, and System Design  
-🔹 Building systems like **Bank System** & **Library Management**  
+🔹 Building systems like **Bank System** & **Library Management System**  
 🔹 Exploring Backend Development & .NET  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedElbakry&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -17,10 +17,10 @@
 ---
 
 ## 🚀 About Me  
-- 🎯 مهتم بالـ **Backend Development** باستخدام C++ / .NET  
-- 📚 خبرة في **OOP**, **Data Structures**, **File Handling**  
-- 🛠️ بشتغل على أنظمة Console زي **Bank System** و **Library Management**  
-- 🌱 حالياً بتعلم تحسين الأداء & كتابة كود نظيف (Clean Code)  
+- 🎯 Interested in **Backend Development** with C++ / .NET  
+- 📚 Strong background in **OOP**, **Data Structures**, **File Handling**  
+- 🛠️ Currently working on **Bank System** & **Library Management System**  
+- 🌱 Learning clean code practices and performance optimization  
 
 ---
 
